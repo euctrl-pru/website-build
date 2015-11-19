@@ -1,6 +1,6 @@
 {
   "name": "@euctrl-pru/website-build",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The PRU website build process with npm",
   "devDependencies": {
     "date-time": "^1.0.0",
