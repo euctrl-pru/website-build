@@ -2,7 +2,6 @@
   "name": "@euctrl-pru/website-build",
   "version": "0.1.0",
   "description": "The PRU website build process with npm",
-  "private": true,
   "devDependencies": {
     "date-time": "^1.0.0",
     "jslint": "latest",
